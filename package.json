@@ -1,0 +1,26 @@
+{
+  "name": "month-bounds",
+  "version": "1.0.0",
+  "description": "Get bounds of a month (beginning of a month and the end of a month)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalclass/month-bounds.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "Szymon Wygnanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finalclass/month-bounds/issues"
+  },
+  "homepage": "https://github.com/finalclass/month-bounds#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
